@@ -140,7 +140,7 @@ a, a:hover, a:visited, a:active {
     mix-blend-mode: multiply;
 width: 200px !important;
 height: 200px !important;
-    
+object-fit: cover;    
 }
 /*________________________________________________________________________________________________________________________________*/
 /*MEDIAQUERIES*/
