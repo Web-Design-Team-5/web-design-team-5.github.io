@@ -261,6 +261,7 @@ height: 200px !important;
             animation: slidein 1s ease-in-out;
         }
 /*__Kori______________________________________________________________________________________________________________________________*/
+/* Kori's section general styles */
 .kori-section {
     max-width: 800px;
     margin: 20px auto;
@@ -268,14 +269,14 @@ height: 200px !important;
     background-color: #f0f0f0;
 }
 
-.kori_container {
+/* Individual content box styling */
+.content-box {
     background-color: #ffffff;
     border: 2px solid #cccccc;
     border-radius: 8px;
     margin: 10px;
     padding: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-
 }
 	
 /*________________________________________________________________________________________________________________________________*/
