@@ -260,7 +260,7 @@ height: 200px !important;
             margin-top: 20px;
 	}
         th, td {
-            border: 1px solid white;
+            border: 1px solid black;
             padding: 8px;
             text-align: left;
         }
