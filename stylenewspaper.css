@@ -261,20 +261,24 @@ height: 200px !important;
             animation: slidein 1s ease-in-out;
         }
 /*__Kori______________________________________________________________________________________________________________________________*/
-.kori-section {
-    padding: 20px;
-    border-radius: 8px;
-    margin: 20px 0;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+.kori-section ul {
+    list-style: none; /* Removes default bullet points */
+    padding: 0; /* Removes default padding */
 }
 
-.li2 {
-    margin-top: 20px;
-    background-color: #ffcc80;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 2px 2px 4px rgba(0,0,0,0.1);
-    border: 2px solid #000; /* Black border added */
+.kori-section li {
+    background-color: #f0f0f0; /* Light grey background */
+    border-radius: 8px; /* Rounded corners */
+    margin-bottom: 10px; /* Space between items */
+    padding: 10px 20px; /* Padding inside each item */
+    font-size: 16px; /* Font size for the text */
+}
+
+/* Optionally, you can add more styling */
+.kori-section {
+    width: 50%; /* Sets the width of the section */
+    margin: auto; /* Centers the section horizontally */
+    padding-top: 20px; /* Adds space at the top inside the section */
 }
 /*________________________________________________________________________________________________________________________________*/
 /*MEDIAQUERIES*/
