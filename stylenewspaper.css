@@ -239,7 +239,7 @@ height: 200px !important;
             transform: scale(1.1);
         }
  /* Styling for the table */
-        .table {
+        table {
             width: 100%;
             border-collapse: collapse;
             margin-top: 20px;
