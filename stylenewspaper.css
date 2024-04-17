@@ -191,17 +191,17 @@ height: 200px !important;
 }
 .dos, .donts {
         flex-basis: 45%;
-        padding: 20px; /* Add padding for better readability */
+        padding: 20px; 
         border-radius: 10px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        margin-bottom: 20px; /* Add some space between the sections */
+        margin-bottom: 20px; 
+	border: 2px solid black;
 }
 .dos {
-        background-color: #6A5ACD; /* Set dos side background to purple */
-        color: white; /* Set text color to white for better contrast */
+        color: white; 
 }
 .donts {
-        background-color: #FFD700; /* Set don'ts side background to gold */
+       color: black; 
 }
 
 
