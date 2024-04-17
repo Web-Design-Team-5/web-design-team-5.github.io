@@ -291,7 +291,35 @@ height: 200px !important;
     padding: 10px;
     margin: 10px;
 }
-	
+
+/*_____Leona___________________________________________________________________________________________________________________________*/
+.tips {
+            margin-bottom: 20px;
+        }
+        .tip {
+            margin-bottom: 10px;
+        }
+        .tip-number {
+            font-weight: bold;
+            color: #333;
+        }
+        .alert-info {
+            background-color: #e7f3fe;
+            border-left: 4px solid #4e8cff;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+        .alert-info p {
+            margin: 0;
+        }
+        .alert-info ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        .alert-info li {
+            list-style-type: disc;
+            margin-bottom: 5px;
+        }
 /*________________________________________________________________________________________________________________________________*/
 /*MEDIAQUERIES*/
 @media only all and (max-width: 1300px) {
