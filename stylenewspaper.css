@@ -12,6 +12,7 @@ header{
     display: inline-block;
     line-height: 72px;
     margin-bottom: 20px;
+text-align: center;
 
 }
 p{
@@ -30,6 +31,16 @@ a, a:hover, a:visited, a:active {
  }
 
 .headerobjectswrapper{
+}
+
+h1{
+font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 25px;
+    text-transform: uppercase;
+    line-height: 72px;
+ margin-bottom: 20px;
+text-align: center;
 }
 
 .subhead{
@@ -140,7 +151,7 @@ a, a:hover, a:visited, a:active {
     mix-blend-mode: multiply;
 width: 200px !important;
 height: 200px !important;
-object-fit: cover;    
+    
 }
 /*________________________________________________________________________________________________________________________________*/
 /*MEDIAQUERIES*/
