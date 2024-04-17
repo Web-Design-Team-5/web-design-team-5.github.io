@@ -180,6 +180,29 @@ height: 200px !important;
   align-items: center; 
   justify-content: center; 
 }
+
+.container {
+	max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+}
+.dos, .donts {
+        flex-basis: 45%;
+        padding: 20px; /* Add padding for better readability */
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px; /* Add some space between the sections */
+}
+.dos {
+        background-color: #6A5ACD; /* Set dos side background to purple */
+        color: white; /* Set text color to white for better contrast */
+}
+.donts {
+        background-color: #FFD700; /* Set don'ts side background to gold */
+}
 /*________________________________________________________________________________________________________________________________*/
 /*MEDIAQUERIES*/
 @media only all and (max-width: 1300px) {
