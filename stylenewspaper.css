@@ -278,7 +278,7 @@ height: 200px !important;
         }
 /*__Kori______________________________________________________________________________________________________________________________*/
 /* Kori's section general styles */
-.kori-section {
+.kori-container {
     max-width: 800px;
     margin: 20px auto;
     padding: 10px;
