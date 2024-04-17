@@ -259,6 +259,14 @@ height: 200px !important;
             border-collapse: collapse;
             margin-top: 20px;
 	}
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #b15fc7;
+        }
 /* Styling for the YouTube link */
         .youtube-link {
             display: block;
