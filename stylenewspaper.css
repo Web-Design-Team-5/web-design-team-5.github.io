@@ -261,12 +261,12 @@ height: 200px !important;
             animation: slidein 1s ease-in-out;
         }
 /*__Kori______________________________________________________________________________________________________________________________*/
-.Kori-section ul {
+.kori-section ul {
     list-style: none; /* Removes default bullet points */
     padding: 0; /* Removes default padding */
 }
 
-.Kori-section li {
+.kori-section li {
     background-color: #f0f0f0; /* Light grey background */
     border-radius: 8px; /* Rounded corners */
     margin-bottom: 10px; /* Space between items */
@@ -275,7 +275,7 @@ height: 200px !important;
 }
 
 /* Optionally, you can add more styling */
-.Kori-section {
+.kori-section {
     width: 50%; /* Sets the width of the section */
     margin: auto; /* Centers the section horizontally */
     padding-top: 20px; /* Adds space at the top inside the section */
