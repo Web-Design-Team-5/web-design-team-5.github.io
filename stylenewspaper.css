@@ -259,6 +259,7 @@ height: 200px !important;
             width: 100%;
             border-collapse: collapse;
             margin-top: 20px;
+	}
 /* Styling for the YouTube link */
         .youtube-link {
             display: block;
