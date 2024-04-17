@@ -53,6 +53,17 @@ font-family: 'Playfair Display', serif;
 text-align: center;
 }
 
+h3{
+font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 20px;
+    text-transform: uppercase;
+    line-height: 72px;
+ margin-bottom: 20px;
+text-align: center;
+}
+
+
 .subhead{
     text-transform: uppercase;
     border-bottom: 2px solid #2f2f2f;
@@ -162,6 +173,11 @@ text-align: center;
 width: 200px !important;
 height: 200px !important;
     
+}
+.media1 {
+-webkit-filter: sepia(80%) contrast(1) opacity(0.8);
+    filter: sepia(80%) grayscale(1) contrast(1) opacity(0.8);
+    mix-blend-mode: multiply;
 }
 
 /*__Kendall______________________________________________________________________________________________________________________________*/
